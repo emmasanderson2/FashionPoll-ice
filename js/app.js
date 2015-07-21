@@ -420,7 +420,6 @@ function UserDeclinedPicture(reason) {
     console.log("User Declined Picture");
 }
 
-  //previewFile();
 
 // add additional response fields to the ui
 function addResponse() {
